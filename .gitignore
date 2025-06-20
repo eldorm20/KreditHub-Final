@@ -1,3 +1,17 @@
+HEAD
+# dependencies
+node_modules/
+.env
+
+# builds
+dist/
+build/
+*.log
+
+# editor stuff
+.vscode/
+.idea/
+.DS_Store
 # Logs
 logs
 *.log
@@ -134,3 +148,4 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+99272378206043f44eecd8e937712aba1e7c4247
